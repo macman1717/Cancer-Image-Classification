@@ -1,0 +1,14 @@
+name: ai
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.10
+  - cudatoolkit=11.2
+  - cudnn=8.1.0
+  - numpy=1.23
+  - jupyterlab
+  - matplotlib
+  - xgboost
+prefix: C:\Users\Sean Nolan\miniconda3\envs\ai
